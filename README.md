@@ -1,7 +1,7 @@
 # SublimeColors
 My favorite Sublime Color Schemes from ColorSublime:
 
-Art School \n
+Art School
 Kane
 Brogrammer
 Batman Light
