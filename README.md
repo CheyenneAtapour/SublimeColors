@@ -1,7 +1,7 @@
 # SublimeColors
 My favorite Sublime Color Schemes from ColorSublime:
 
-Art School
+Art School \n
 Kane
 Brogrammer
 Batman Light
@@ -63,7 +63,7 @@ those lights
 Tomorrow Night Bright
 ToyMachine
 TwoStones
-Vibrant Ink
+Vibrant Ink (*)
 Welded
 Wildlife-Night
 Yule
