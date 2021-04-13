@@ -12,6 +12,7 @@ Brilliance Black
 Bungler  
 Candy Brights  
 Chameleon  
+Daguiheso
 Dark Dracula  
 Dark Krystal  
 Dark Korokai  
