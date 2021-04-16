@@ -54,7 +54,7 @@ Rainbow
 Rebecca-Dark  
 Rebecca-Mint  
 Rebecca-Sky  
-Rebecca  
+Rebecca - Nice for notes  
 Santojon-Dark  
 Seth  
 Solarized-Light  
